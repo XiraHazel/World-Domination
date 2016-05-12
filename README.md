@@ -3,5 +3,6 @@
 # Milestones
 1. Get a main character going
 1. Weapons
-1. Code one fully functional continent by beta
-
+1. Code one fully functional continent (australia) by beta
+1. Get a health bar working
+1. Screen Switch 
