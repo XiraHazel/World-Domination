@@ -1,5 +1,5 @@
 body {
-background-color: black;
+background-color:rgb(8,16,35);
 }
 
 img{
@@ -16,12 +16,32 @@ input{
 .canvas{
      background-repeat: no-repeat;
      background-size: contain;
-     background-image: url("http://moonlady.com/wp-content/uploads/2014/05/prd_011155.jpg");
+     background-image: url("http://www.aerotours.ch/Photos/AUSTRALIA/kangaroo-on-sunset.jpg");
+     width: 100%;
+     height: auto;
+     position: fixed;
+     top: 0;
+     left: 0;
  }
  
-#fighter1 img {
+#fighter1{
      position: absolute;
-     height: 400px;
-     top : 300px;
-     left: 900px;
+     width: 100px;
+     height: 350px;
+     margin-top: 100px;
+     margin-bottom: 100px;
+     margin-right: 150px;
+     margin-left: 80px;
+     
  }
+ h1 {
+    text-align: center;
+    height: 10em;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+ }
+ 
